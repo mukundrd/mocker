@@ -6,7 +6,7 @@ import android.support.annotation.NonNull;
 import com.catalyst.travller.app.BuildConfig;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.trayis.mock.MockInterceptor;
+import com.lba.android.mocker.MockInterceptor;
 
 import okhttp3.OkHttpClient;
 import retrofit2.Converter;

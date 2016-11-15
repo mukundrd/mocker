@@ -1,4 +1,4 @@
-package com.trayis.mock;
+package com.lba.android.mocker;
 
 import android.text.TextUtils;
 

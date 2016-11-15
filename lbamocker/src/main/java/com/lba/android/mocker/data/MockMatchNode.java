@@ -1,4 +1,4 @@
-package com.trayis.mock;
+package com.lba.android.mocker.data;
 
 import android.os.Parcel;
 import android.os.Parcelable;

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Traveller.iml" filepath="$PROJECT_DIR$/Traveller.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lbamocker/lbamocker.iml" filepath="$PROJECT_DIR$/lbamocker/lbamocker.iml" />
     </modules>
   </component>
 </project>

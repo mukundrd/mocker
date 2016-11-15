@@ -1,5 +1,4 @@
 apply plugin: 'com.android.application'
-
 android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
@@ -43,6 +42,8 @@ android {
     dependencies {
         compile fileTree(dir: 'libs', include: ['*.jar'])
 
+        compile project(':lbamocker')
+
         testCompile 'junit:junit:4.12'
 
         compile 'com.android.support:appcompat-v7:23.1.1'
@@ -58,4 +59,3 @@ android {
 
     }
 }
-
