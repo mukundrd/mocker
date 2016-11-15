@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://api.github.com",
+    "nodes": [
+      {
+        "url": "users/{user}/repos",
+        "json": "repos.json"
+      }
+    ]
+  },
+  {
+    "url": "http://gears.trayis.com",
+    "nodes": [
+      {
+        "url": "rest/list_makes",
+        "json": "list_makes.json"
+      }
+    ]
+  }
+]
